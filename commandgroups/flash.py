@@ -1,3 +1,5 @@
+# I wont even lie to yall, this was chat gpt right here
+
 import typing
 import discord
 import asyncio
